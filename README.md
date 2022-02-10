@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <b>React && CSS</b> 
 </p>
 <p align="center">
-- 👨‍💻 All of my projects are available at <a href="https://ourainbows.codes/portfolio"  target="blank" >Ourainbows.codes</a>
+- 👨‍💻 My favorite projects and portflio are available at <a href="https://ourainbows.codes/portfolio"  target="blank" >ourainbows.codes</a>
 </p>
 <br/>
 
@@ -18,6 +18,7 @@
 <br/><br/>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ourainbows&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=b3183a&locale=en" alt="ourainbows" /></p>
+<br/>
 <p align="center">
 <a href="https://twitter.com/ourainbows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ourainbows" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/juan-casas-20316a19b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan casas" height="30" width="40" /></a>
