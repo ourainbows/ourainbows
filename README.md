@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <b>React && CSS</b> 
 </p>
 <p align="center">
-- 🚀 My favorite projects and portflio are available at <a href="https://ourainbows.codes/portfolio"  target="blank" >ourainbows.codes</a>
+- 🚀 My favorite projects and portflio are available at <a href="https://ourainbows.codes"  target="blank" >ourainbows.codes</a>
 </p>
 <br/>
 
