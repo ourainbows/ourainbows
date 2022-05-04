@@ -1,4 +1,4 @@
-<a href='https://postimg.cc/8sYyJNrP' target='_blank'><img src='https://i.postimg.cc/15mbdzm6/wall-0034.jpg' border='0' alt='wall-0034'/></a>
+<img src='https://i.postimg.cc/15mbdzm6/wall-0034.jpg' border='0' alt='wall-0034'/>
 <h1 align="center">Hi 👋, I'm Juan Casas </h1>
 <h3 align="center">I love Frontend / UI</h3>
 <p align="center">
